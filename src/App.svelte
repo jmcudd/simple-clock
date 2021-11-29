@@ -19,7 +19,7 @@
 <div class="clock" style="font-size:{size}px;">{out}</div>
 <style>
   .clock {
-    border: 5px solid #d44400;
+    border: 5px solid green;
     border-radius: 10px;
     font-weight: bold;
     display: inline-block;
