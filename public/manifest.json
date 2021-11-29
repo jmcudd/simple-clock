@@ -1,0 +1,6 @@
+{
+  "name": "Simple Clock",
+  "short_name": "simple-clock",
+  "version": "1.0.0",
+  "webcomponent": true
+}
